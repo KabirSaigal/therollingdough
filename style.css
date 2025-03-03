@@ -32,12 +32,12 @@ nav a:hover {
     background-image: url('pizza.jpg');
     background-size: cover;
     background-position: center;
-    height: 300px;
+    background-repeat: no-repeat;
+    height: 380px;
     color: white;
     display: flex;
     justify-content: center;
     align-items: center;
-    text-align: center;
 }
 .hero h1 {
     font-size: 3em;
